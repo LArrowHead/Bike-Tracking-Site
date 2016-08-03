@@ -22,7 +22,10 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px;
+    font-size: 18px;
+	background-color: #000000;
+	color: #FFF;
+	font-family: cursive, monspace;
 }
 
 .lead {
@@ -167,8 +170,4 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
-}
-.navbar-default {
-	background-color:#e7e7e7;
-	border-color:#f8f8f8
 }
